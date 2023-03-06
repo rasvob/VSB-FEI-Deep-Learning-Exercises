@@ -132,3 +132,6 @@ dmypy.json
 *.hdf5
 model.png
 mnist_model/
+
+*_solution.ipynb
+*_tmp.ipynb
