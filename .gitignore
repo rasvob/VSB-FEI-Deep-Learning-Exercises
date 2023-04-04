@@ -136,3 +136,6 @@ mnist_model/
 *_solution.ipynb
 *_tmp.ipynb
 WIP*.ipynb
+checkpoint
+weights*
+glove*
