@@ -132,6 +132,7 @@ dmypy.json
 *.hdf5
 model.png
 mnist_model/
+task_add_two_numbers/
 
 *_solution.ipynb
 *_tmp.ipynb
