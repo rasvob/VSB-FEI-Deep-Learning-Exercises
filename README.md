@@ -1,8 +1,8 @@
 # Exercises for the Deep Learning course held at FEI, VSB-TU Ostrava.
 
-Course information can be found [here](https://homel.vsb.cz/~pla06/).
+Course information may be found [here](https://homel.vsb.cz/~pla06/).
 
-More details about the course exercises are at [my homel](https://homel.vsb.cz/~svo0175/).
+You can find more details about the course at [my homel](https://homel.vsb.cz/~svo0175/).
 
 Feel free to [contact me](radek.svoboda@vsb.cz) if you have any questions or want to discuss any topic from the course 😊
 
