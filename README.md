@@ -105,5 +105,14 @@ source venv/bin/activate
 
 ```
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
-pip install pandas matplotlib requests seaborn scipy scikit-learn optuna tensorflow plotly==5.18.0
+pip install pandas matplotlib requests seaborn scipy scikit-learn optuna plotly==5.18.0 tensorflow[and-cuda]
+```
+
+### Test TF2 installation
+
+* It should print list of all your GPUs
+    * It is not working if an empty list (`[]`) is printed
+
+```python
+python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```
