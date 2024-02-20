@@ -111,7 +111,7 @@ pip install pandas matplotlib requests seaborn scipy scikit-learn optuna plotly=
 ### Test TF2 installation
 
 * It should print list of all your GPUs
-    * It is not working if an empty list `[]` is printed
+    * 💡 It is not working if an empty list `[]` is printed
 
 ```python
 python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
