@@ -82,6 +82,27 @@ This lecture is focused on using CNN for object localization tasks.
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_10.ipynb)
 
 # 💡 Notes
+## How to use Kaggle notebooks
+* You can use (Kaggle)[https://www.kaggle.com/] as an alternative to Google Colab
+* For importing the Jupyter notebook perform these steps:
+    * Click on `+` sign (or `Create`) button in the left panel and select `New Notebook`
+    * In the new notebook select `File > Import notebook > Link` and paste URL of the Jupyter notebook from Github
+        * e.g. https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_01.ipynb
+    * In the `Notebook` sidebar (right side, it can be expanded through small arrow icon in the bottom right corner) use these *Session options*:
+        * *Accelerator*: `GPU T4x2` or `GPU P100`
+        * *Persistence*: `Variables and Files`
+    * Own datasets can be uploaded using the the `Notebook` sidebar as well - `Input` section
+        * Click on `Upload > New dataset > File` and Drag&Drop your file(s)
+        * Set the *Dataset title* and click on `Create`
+            * 💡 *zip* archives are automatically extracted
+            * You can copy path of the file using the *copy* icon when you hover over the filename
+                * The usual path is in format `/kaggle/input/<dataset_name>/<filename>`
+    * 💡 **There is some problem with using the *hdf5* format in the `filepath` parameter in `ModelCheckpoint`**
+        * Use filename `best.weights.h5` instead (hdf5 and h5 is the same format)
+        * 💡 Remember to change the path in the `load_weights()` function as well!**
+    * You can download your `.ipynb` notebooks using `File > Download notebook` option
+
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
