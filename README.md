@@ -84,6 +84,7 @@ This lecture is focused on using CNN for object localization tasks.
 # 💡 Notes
 ## How to use Kaggle notebooks
 * You can use (Kaggle)[https://www.kaggle.com/] as an alternative to Google Colab
+    * 📌 Beware that both platforms use different configuration and libraries versions thus full compatibility cannot be always guaranteed
 * For importing the Jupyter notebook perform these steps:
     * Click on `+` sign (or `Create`) button in the left panel and select `New Notebook`
     * In the new notebook select `File > Import notebook > Link` and paste URL of the Jupyter notebook from Github
