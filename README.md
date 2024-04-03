@@ -127,7 +127,7 @@ source venv/bin/activate
 
 ```
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
-pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-image pyarrow opencv-python plotly==5.18.0 tensorflow[and-cuda]
+pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-image pyarrow opencv-python plotly==5.18.0 tensorflow[and-cuda] nltk textblob
 ```
 
 ### Test TF2 installation
