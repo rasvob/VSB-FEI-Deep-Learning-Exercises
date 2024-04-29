@@ -124,6 +124,7 @@ source venv/bin/activate
 
 
 ### Intall python packages
+* Works for tensorflow 2.15.0
 
 ```
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
