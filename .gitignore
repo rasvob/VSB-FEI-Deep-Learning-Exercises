@@ -138,6 +138,7 @@ task_add_two_numbers/
 *_solution.ipynb
 *_tmp.ipynb
 WIP*.ipynb
+OLD*.ipynb
 checkpoint
 weights*
 glove*
