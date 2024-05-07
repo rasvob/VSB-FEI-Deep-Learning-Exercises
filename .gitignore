@@ -134,6 +134,9 @@ dmypy.json
 model.png
 mnist_model/
 task_add_two_numbers/
+yolo/
+yolo_data/
+yolo_data_input/
 
 *_solution.ipynb
 *_tmp.ipynb
@@ -143,3 +146,8 @@ checkpoint
 weights*
 glove*
 *.tsv
+bus.jpg
+yolov8n.pt
+video_cut.mkv
+yolo_data.zip
+yolo_data_dir.zip
