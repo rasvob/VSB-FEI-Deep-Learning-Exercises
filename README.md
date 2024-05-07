@@ -75,7 +75,7 @@ The exercise focuses on the use of transformer models for text data classificati
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_09.ipynb)
 
 ## Exercise 10
-This lecture is focused on using CNN for object localization tasks.
+This lecture is focused on using CNN for object localization tasks, we will also use YOLOv8 model in a real-world scenario during second part of the lecture.
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_10.ipynb)
 
