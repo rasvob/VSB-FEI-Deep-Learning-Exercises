@@ -81,6 +81,13 @@ This lecture is focused on using CNN for object localization tasks, we will also
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_10.ipynb)
 
+## Exercise 11
+The aim of the lecture is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+
 # 💡 Notes
 ## How to use Kaggle notebooks
 * You can use (Kaggle)[https://www.kaggle.com/] as an alternative to Google Colab
