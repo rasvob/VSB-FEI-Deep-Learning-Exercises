@@ -84,9 +84,13 @@ This lecture is focused on using CNN for object localization tasks, we will also
 ## Exercise 11
 The aim of the lecture is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain
 
-> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+> [Jupyter Notebook - Stable Diffusion](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
 
-> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+> [Google Colab - Stable Diffusion](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+
+> [Jupyter Notebook - LLM](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_02.ipynb)
+
+> [Google Colab - LLM](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_02.ipynb)
 
 # 💡 Notes
 ## How to use Kaggle notebooks
