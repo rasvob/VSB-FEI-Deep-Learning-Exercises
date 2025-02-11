@@ -142,6 +142,12 @@ pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
 ```
 
 ```
+# Basic environment setup
+pip install pandas matplotlib requests seaborn scipy scikit-learn tensorflow[and-cuda]
+```
+
+```
+# Advanced environment setup
 pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-image pyarrow opencv-python plotly==5.18.0 tensorflow[and-cuda] nltk textblob transformers datasets huggingface_hub evaluate
 ```
 
