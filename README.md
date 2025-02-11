@@ -117,7 +117,7 @@ The aim of the lecture is to get an overview of possibilities in the generative 
 
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
-```
+```bash
 python -m venv venv
 ```
 
@@ -129,7 +129,7 @@ python -m venv venv
 ```
 
 * Activate `venv` in **Linux**
-```
+```bash
 source venv/bin/activate
 ```
 
@@ -137,16 +137,16 @@ source venv/bin/activate
 ### Intall python packages
 * Works for tensorflow 2.18.0
 
-```
+```bash
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
 ```
 
-```
+```bash
 # Basic environment setup
 pip install pandas matplotlib requests seaborn scipy scikit-learn tensorflow[and-cuda]
 ```
 
-```
+```bash
 # Advanced environment setup
 pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-image pyarrow opencv-python plotly==5.18.0 tensorflow[and-cuda] nltk textblob transformers datasets huggingface_hub evaluate
 ```
@@ -156,6 +156,6 @@ pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-
 * It should print list of all your GPUs
     * 💡 It is not working if an empty list `[]` is printed
 
-```python
+```bash
 python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```
