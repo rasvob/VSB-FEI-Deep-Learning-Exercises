@@ -143,7 +143,7 @@ pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
 
 ```bash
 # Basic environment setup
-pip install pandas matplotlib requests seaborn scipy scikit-learn tensorflow[and-cuda]
+pip install pandas matplotlib requests seaborn scipy scikit-learn tqdm tensorflow[and-cuda]
 ```
 
 ```bash

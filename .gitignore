@@ -138,6 +138,7 @@ task_add_two_numbers/
 yolo/
 yolo_data/
 yolo_data_input/
+mnist_data/
 
 *_solution.ipynb
 *_tmp.ipynb
