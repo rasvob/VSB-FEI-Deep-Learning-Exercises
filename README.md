@@ -135,10 +135,13 @@ source venv/bin/activate
 
 
 ### Intall python packages
-* Works for tensorflow 2.15.0
+* Works for tensorflow 2.18.0
 
 ```
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
+```
+
+```
 pip install pandas matplotlib requests seaborn scipy scikit-learn optuna scikit-image pyarrow opencv-python plotly==5.18.0 tensorflow[and-cuda] nltk textblob transformers datasets huggingface_hub evaluate
 ```
 
