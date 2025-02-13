@@ -10,14 +10,26 @@ All authorship is mentioned where possible.
 
 # 📊 Exercises
 ## Exercise 1
-The aim of the exercise is to get an overview of the basic capabilities of the Keras library and to build a simple neural network for MNIST dataset classification.
+In this exercise, we'll explore essential TensorFlow 2 and Keras concepts through hands-on examples with the MNIST dataset - the "Hello World" of deep learning. We'll cover:
+
+**Core Concepts**
+- 🚀 Building and training a basic neural network for digit classification
+- 📒 Understanding validation strategies for model evaluation
+- 📊 Exploring model complexity and its impact on performance
+- ✅ Designing optimal architectures using fully connected layers
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_01.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_01.ipynb)
 
 ## Exercise 2
-The goal of the exercise is to learn how to solve regression problems using deep learning.
+The goal of the exercise is to learn how to solve regression problems using deep learning. We will use our models on [Auto MPG](https://archive.ics.uci.edu/ml/datasets/auto+mpg) dataset.
+
+**Core Concepts**
+* ⛽ Regression task of predicting fuel consumption
+* 💾 Auto MPG dataset from UCI Machine Learning Repository
+* 🚗 Predicting fuel efficiency of vehicles
+* 🧪 Using provided data to train ANN regression models
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_02.ipynb)
 
@@ -26,6 +38,12 @@ The goal of the exercise is to learn how to solve regression problems using deep
 
 ## Exercise 3
 The aim of the exercise is to learn how to use the basic architecture based on convolutional layers and how to classify image data.
+
+**Core Concepts**
+* 🎯 Convolutional Neural Networks basics
+* 📊 Working with CIFAR-10 dataset
+* ✅ Model validation techniques 
+* 🔄 Batch normalization in Keras
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_03.ipynb)
 
