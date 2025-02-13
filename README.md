@@ -66,6 +66,12 @@ The aim of the exercise is to learn how to use transfer learning for image data,
 ## Exercise 5
 The goal of the exercise is to learn how to use Autoencoder and Variational autoencoder architectures in image data to generate new image data instances and detect anomalies.
 
+**Core Concepts**
+* 🖼️ Autoencoders for image reconstruction
+* 🔀 Variational Autoencoders for image generation
+* 🔢 MNIST dataset for image processing tasks
+* ⚙️ Implementation of CNN-based autoencoders
+
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_05.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_05.ipynb)
