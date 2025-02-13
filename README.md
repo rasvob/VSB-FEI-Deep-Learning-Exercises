@@ -53,6 +53,12 @@ The aim of the exercise is to learn how to use the basic architecture based on c
 ## Exercise 4
 The aim of the exercise is to learn how to use transfer learning for image data, in the second part of the exercise we will look at time series classification using CNN.
 
+**Core Concepts**
+* 🧠 Transfer learning techniques in CNNs
+* 📈 1D Convolutions for time-series processing
+* 📊 CIFAR-10 dataset utilization
+* ⏱️ FordA dataset for time-series classification tasks
+
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_04.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_04.ipynb)
