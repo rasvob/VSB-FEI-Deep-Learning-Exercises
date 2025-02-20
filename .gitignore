@@ -157,3 +157,4 @@ coco128.yaml
 yolov8n.onnx
 sd_output.png
 mnist_model.keras
+data/
