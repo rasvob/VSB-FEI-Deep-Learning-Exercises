@@ -77,7 +77,14 @@ The goal of the exercise is to learn how to use Autoencoder and Variational auto
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_05.ipynb)
 
 ## Exercise 6
-The goal of this exercise is to learn how to use recurrent neural networks for sentiment analysis of text data. In the exercise, we will work with data from Twitter.
+The aim of the exercise is to learn how to use recurrent neural networks (RNN) for text data analysis, specifically focusing on sentiment analysis tasks using Twitter data.
+
+**Core Concepts**
+* 🧠 Recurrent neural networks for sequence processing
+* 📝 Sentiment analysis of textual data
+* 🐦 Twitter dataset utilization
+* 🔤 GloVe embeddings for word representation
+* 📊 Text classification by sentiment
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_06.ipynb)
 
