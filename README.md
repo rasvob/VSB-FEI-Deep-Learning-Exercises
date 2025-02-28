@@ -91,7 +91,14 @@ The aim of the exercise is to learn how to use recurrent neural networks (RNN) f
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_06.ipynb)
 
 ## Exercise 7
-The goal of this exercise is to learn how to create your own Word2Vec embedding and generate your own text using RNN.
+The aim of this exercise is to learn how to build unsupervised word embeddings using the Word2Vec Skip-Gram method and implement recurrent neural networks (RNNs) for text generation using Harry Potter books as our dataset.
+
+**Core Concepts**
+* 🧠 Word2Vec Skip-Gram model for creating word embeddings
+* 📚 Harry Potter corpus for training word embeddings
+* 🔤 Analyzing word relationships in embedding space
+* ⚡ Text generation using character-based RNNs
+* 📝 Creating Harry Potter style stories with generative models
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_07.ipynb)
 
