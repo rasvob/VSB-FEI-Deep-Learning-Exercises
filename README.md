@@ -105,7 +105,13 @@ The aim of this exercise is to learn how to build unsupervised word embeddings u
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_07.ipynb)
 
 ## Exercise 8
-The aim of the exercise is to learn how to work with the Attention mechanism within the RNN.
+The aim of this exercise is to learn how to implement and utilize attention mechanisms in deep learning models, focusing on how these techniques allow models to selectively focus on the most relevant parts of input data.
+
+**Core Concepts**
+* 🧠 Attention mechanism fundamentals and mathematical foundations
+* 🔍 Types of attention mechanisms (Self-attention, Dot-product)
+* 📊 Applications in natural language processing
+* ⚙️ Implementation of attention-based models
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_08.ipynb)
 
