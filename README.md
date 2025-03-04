@@ -118,7 +118,13 @@ The aim of this exercise is to learn how to implement and utilize attention mech
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_08.ipynb)
 
 ## Exercise 9
-The exercise focuses on the use of transformer models for text data classification using the Hugging face API.
+This exercise focuses on implementing and utilizing transformer models using the HuggingFace library in conjunction with TensorFlow 2. We'll explore how to leverage pre-trained models for natural language processing tasks.
+
+**Core Concepts**
+* 🤗 HuggingFace library and its ecosystem
+* 🔧 Integration of HuggingFace models with TensorFlow 2
+* 📊 Fine-tuning pre-trained models for specific NLP tasks
+* 🚀 Practical applications of transformer models
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_09.ipynb)
 
