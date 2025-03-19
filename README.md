@@ -131,7 +131,14 @@ This exercise focuses on implementing and utilizing transformer models using the
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_09.ipynb)
 
 ## Exercise 10
-This lecture is focused on using CNN for object localization tasks, we will also use YOLOv8 model in a real-world scenario during second part of the lecture.
+This exercise focuses on implementing Convolutional Neural Networks (CNNs) for object localization tasks and exploring the powerful YOLOv8 architecture. We'll learn how to detect and precisely locate objects in images and videos, then apply these concepts using a state-of-the-art model in real-world scenarios.
+
+**Core Concepts**
+* 🖼️ Object localization fundamentals and bounding box regression
+* 🧠 CNN architectures for effective feature extraction and object detection
+* 📦 YOLOv8 model architecture and capabilities
+* 🔍 Practical implementation of object localization in real-world applications
+* 🛠️ Training and fine-tuning YOLOv8 on custom datasets
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_10.ipynb)
 

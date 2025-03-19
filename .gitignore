@@ -139,6 +139,7 @@ yolo/
 yolo_data/
 yolo_data_input/
 mnist_data/
+runs/
 
 *_solution.ipynb
 *_tmp.ipynb
@@ -150,6 +151,7 @@ glove*
 *.tsv
 bus.jpg
 yolov8n.pt
+yolo11n.pt
 video_cut.mkv
 yolo_data.zip
 yolo_data_dir.zip
