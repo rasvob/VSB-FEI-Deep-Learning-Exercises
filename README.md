@@ -145,15 +145,31 @@ This exercise focuses on implementing Convolutional Neural Networks (CNNs) for o
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_10.ipynb)
 
 ## Exercise 11
+This exercise focuses on time series forecasting using deep learning techniques. We will apply these methods to predict natural gas consumption, building upon the pre-processed dataset from previous exercises.
+
+**Core Concepts**
+* 📈 Time series forecasting with deep learning
+* ⛽ Natural gas consumption prediction
+* 📊 Utilizing pre-processed time series datasets
+* 🧠 Implementing deep learning models for time series data
+* 🛠️ Practical application of deep learning to real-world forecasting problems
+
+The raw dataset is available at [vsb.ai](https://vsb.ai/natural-gas-forecasting), and we will be using a pre-processed version for this exercise.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11.ipynb)
+
+## Exercise 12
 The aim of the lecture is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain
 
-> [Jupyter Notebook - Stable Diffusion](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+> [Jupyter Notebook - Stable Diffusion](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_01.ipynb)
 
-> [Google Colab - Stable Diffusion](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_01.ipynb)
+> [Google Colab - Stable Diffusion](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_01.ipynb)
 
-> [Jupyter Notebook - LLM](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_02.ipynb)
+> [Jupyter Notebook - LLM](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_02.ipynb)
 
-> [Google Colab - LLM](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11_02.ipynb)
+> [Google Colab - LLM](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_02.ipynb)
 
 # 💡 Notes
 ## How to use Kaggle notebooks
