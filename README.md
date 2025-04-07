@@ -154,7 +154,7 @@ This exercise focuses on time series forecasting using deep learning techniques.
 * 🧠 Implementing deep learning models for time series data
 * 🛠️ Practical application of deep learning to real-world forecasting problems
 
-The raw dataset is available at [vsb.ai](https://vsb.ai/natural-gas-forecasting), and we will be using a pre-processed version for this exercise.
+The raw dataset is available at [ai.vsb.cz](https://ai.vsb.cz/natural-gas-forecasting), and we will be using a pre-processed version for this exercise.
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11.ipynb)
 
