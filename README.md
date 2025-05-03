@@ -160,7 +160,7 @@ The raw dataset is available at [ai.vsb.cz](https://ai.vsb.cz/natural-gas-foreca
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_11.ipynb)
 
-## Exercise 12
+<!-- ## Exercise 12
 The aim of the lecture is to get an overview of possibilities in the generative artificial intelligence (GenAI) domain
 
 > [Jupyter Notebook - Stable Diffusion](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_01.ipynb)
@@ -169,7 +169,7 @@ The aim of the lecture is to get an overview of possibilities in the generative 
 
 > [Jupyter Notebook - LLM](https://github.com/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_02.ipynb)
 
-> [Google Colab - LLM](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_02.ipynb)
+> [Google Colab - LLM](https://colab.research.google.com/github/rasvob/VSB-FEI-Deep-Learning-Exercises/blob/main/dl_12_02.ipynb) -->
 
 # 💡 Notes
 ## How to use Kaggle notebooks
